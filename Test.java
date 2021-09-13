@@ -5,5 +5,3 @@ class Test
 	char x = 1971;
 	System.out.println(x);
 }
-
-}
